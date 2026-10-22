@@ -1,0 +1,10 @@
+{
+  "name": "marketing-roadmap",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Open, self-paced marketing learning tool with interactive roadmaps.",
+  "scripts": {
+    "validate": "node scripts/validate.mjs"
+  },
+  "license": "MIT"
+}
